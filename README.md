@@ -1,2 +1,2 @@
 # hello-world
-My fist coding project
+My first coding project
